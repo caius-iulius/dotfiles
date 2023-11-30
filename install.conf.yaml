@@ -1,0 +1,10 @@
+- defaults:
+    link:
+        relink: true
+        create: true
+- clean: ['~']
+- link:
+    ~/.config/nvim: ./nvim
+    ~/.config/alacritty/alacritty.yml: ./alacritty.yml
+    ~/.config/sway: ./sway/sway
+    ~/.config/waybar: ./sway/waybar
