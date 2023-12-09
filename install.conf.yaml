@@ -5,6 +5,6 @@
 - clean: ['~']
 - link:
     ~/.config/nvim: ./nvim
-    ~/.config/alacritty/alacritty.yml: ./alacritty.yml
+    ~/.config/kitty: ./kitty
     ~/.config/sway: ./sway/sway
     ~/.config/waybar: ./sway/waybar
