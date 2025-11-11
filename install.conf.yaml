@@ -8,3 +8,4 @@
     ~/.config/kitty: ./kitty
     ~/.config/sway: ./sway/sway
     ~/.config/waybar: ./sway/waybar
+    ~/.config/zsh: ./zsh
